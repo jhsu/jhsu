@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+twitter: [@jhsu](https://twitter.com/jhsu)
+
+
 <!--
 **jhsu/jhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
