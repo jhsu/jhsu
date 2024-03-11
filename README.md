@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+threads: [@josephhsu](https://www.threads.net/@josephhsu)
 
 twitter: [@jhsu](https://twitter.com/jhsu)
 
