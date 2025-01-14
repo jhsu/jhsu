@@ -4,6 +4,7 @@ threads: [@josephhsu](https://www.threads.net/@josephhsu)
 
 twitter: [@jhsu](https://twitter.com/jhsu)
 
+bsky: [@soulless.social](https://bsky.app/profile/soullessshoe.social)
 
 
 
