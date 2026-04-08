@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-twitter: [@jhsu](https://x.com/jhsu)
-blog: [atjhsu](https://atjhsu.dev/)
+- twitter: [@jhsu](https://x.com/jhsu)
+- blog: [atjhsu](https://atjhsu.dev/)
 
 
 
